@@ -1,2 +1,7 @@
-# M1-PRES_LoiDeMoore
-Présentation de la loi de Moore dans le cadre d'un cours d'épistémologie de la recherche en M1. 
+# Méthodologie et épistémologie de la recherche
+
+## Présentation Loi de Moore
+
+L'objectif de cette présentation était dans un premier temps de faire un premier pas vers le monde de la recherche en informatique et dans un deuxième temps de présenter de manière suscinte un sujet complexe appartenant au domaine de l'informatique.
+
+Un rapport en PDF est disponible ainsi que le support PPT utilisé pour présenter le sujet. 
